@@ -1,1 +1,40 @@
 # Automated-Network-Request-Management-in-ServiceNow
+##  Overview
+Project Description:
+This project aims to design and implement a streamlined, automated solution for managing network-related service requests within ServiceNow. It enables end users to submit requests for network services through a user-friendly self-service portal.
+The system leverages ServiceNow’s workflow engine, catalog items, and approval processes to ensure requests are properly captured, validated, and routed for fulfillment. Upon submission, requests trigger automated notifications, task assignments, and—where applicable—integration with network automation tools or scripts to fulfill standard requests without manual intervention.
+
+Key Features:
+Custom service catalog for common network requests
+
+
+Dynamic forms to capture relevant request details
+
+
+Automated approval workflows based on request type and sensitivity
+
+
+Integration with infrastructure management or orchestration tools (optional)
+
+
+Real-time status updates and notifications to requesters and technicians
+
+
+Reporting and analytics on request volume, resolution time, and SLA adherence
+
+---
+
+## Demo
+You can check out the demo here:  
+[ Demo Link](https://drive.google.com/file/d/1Ar0veq1vwb2G3vQoxGGupFifhIN993H_/view)
+
+---
+
+##  Project Documentation
+For detailed information, refer to the project documentation:  
+[ Project Doc](https://workdrive.zohoexternal.com/writer/open/rfcs4c84f1baa3b584c308a16b89a3b0ebfe9?authId=%7B%22linkId%22%3A%225k2wApaKCyi-LYmlU%22%7D)  
+
+ **Passkey to access document:** `5rlJG37`
+
+---
+
